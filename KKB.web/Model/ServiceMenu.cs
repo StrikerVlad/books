@@ -150,6 +150,7 @@ namespace KKB.web.Model
             AuthoriseUserMenu();
         }
 
+
         private void AddMoney()
         {
             ShowBalanceMenu();
